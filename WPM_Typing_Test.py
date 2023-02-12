@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 import curses
 from curses import wrapper
 import time
@@ -83,10 +77,3 @@ def main(stdscr):
             break
 
 wrapper(main)
-
-
-# In[ ]:
-
-
-
-
